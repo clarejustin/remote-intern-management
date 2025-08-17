@@ -1,5 +1,5 @@
 
-# emote Intern Management App  
+# Remote Intern Management App  
 
 The **Remote Intern Management App** is a web-based platform that helps companies manage interns remotely. It provides a simple way for managers to assign tasks, track progress, and evaluate performance, while interns can manage their profiles and stay updated on their responsibilities.  
 
