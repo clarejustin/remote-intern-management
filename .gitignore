@@ -12,7 +12,3 @@ build/
 coverage/
 .cache/
 .tmp/
-
-# OS/editor junk
-.DS_Store
-Thumbs.db
